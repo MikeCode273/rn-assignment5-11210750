@@ -1,5 +1,5 @@
 # rn-assignment5-11210750
-# rn-assignment5-11210750
+
 
 This application was built as a part of a React Native learning assignment. The goal was to create a mobile app that demonstrates the use of various React Native components and concepts, including navigation, state management, and API integration.
 
@@ -13,7 +13,9 @@ The development process involved several key steps:
 
 id: A unique identifier for the item.
 name: The name of the item, such as "Apple", "Spotify", or "Money Transfer".
+
 category: The category to which the item belongs, e.g., "Music" or "Transaction".
+
 amount: A string that represents an amount of money associated with the item. This could be an expense (indicated by a negative value like "- $12.99") or income (indicated by a positive value like "$300").
 
 
